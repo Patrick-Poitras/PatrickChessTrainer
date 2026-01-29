@@ -1,0 +1,14 @@
+This is a bunch of stuff that I use to attempt to train myself
+in chess.
+
+The pieces are Lichess's "Kosal" set. The are available here:
+https://github.com/lichess-org/lila/tree/master/public/piece/kosal
+and are licensed as AGPL.
+
+Dependencies:
+- libraylib
+- cl-raylib:
+
+#+begin_src 
+git clone https://github.com/longlene/cl-raylib.git ~/.quicklisp/local-projects/cl-raylib
+#+end_src
